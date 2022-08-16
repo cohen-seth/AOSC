@@ -1,0 +1,18 @@
+For my final project, I am going to look into the opioid epidemic in the United States. I would like to look
+at the different types of drugs involved, mortality rates, rehabilitation success/failure rates, socioeconomic
+status, race, as well as other significant factors which will become more apparent once I start my research.
+
+I would like to generate different graphics comparing and analyzing these across the country. If I am unable to
+find enough data for the entire country I will narrow the scope and look at either a select number of states and/or
+cities such as New York, Massachusetts and others.
+
+I have found a website with a lot of health data: https://www.cityhealthdashboard.com/  (Links to an external site.)
+
+However, I still need to investigate further to find CSV files and databases which I will be able to use in python.
+In my project, I think it would be interesting to find a way to create a graph which allows me or the user to select
+the different variables they want to look at using a drop down tab or something of the sort (if that is possible
+using python). And also a time lapse which allows us to view the progression of the problem throughout the country.
+
+I will also like to use a lot of the statistics programs available in python to develop descriptive statistics.
+I will run regression models among the variables I listed above to add context and more detailed information about
+the problem.
